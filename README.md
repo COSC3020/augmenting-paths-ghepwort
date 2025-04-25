@@ -37,9 +37,8 @@ answer, including your reasoning, to this markdown file.
 
 The overall worst-case complexity of this algorithm is $\Theta(|V|+|E|)$. In the worst case we would end up looping through every neighbor during the for loop which we get by searching all the edges. During the for loop we check if we have visited a vertex or not and if not we check it. This means we would end up visiting every vertex eventually giving us the worst-case complexity of $\Theta(|V| + |E|)$.
 
-
-
-
 ## Sources
 
 Used [RunJS](https://runjs.app/play) for their online editor when I was working on a different machine than normal.
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
